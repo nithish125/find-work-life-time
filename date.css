@@ -1,6 +1,22 @@
-.box{
-    width: 15px;
-    height: 15px;
-    margin-right: 5px;
-    background-color: red;
+.circle1{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color:yellow;
+    border-radius: 50%;
+
+}
+.circle2{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color:red;
+}
+.circle3{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color:green;
 }
