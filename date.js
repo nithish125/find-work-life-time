@@ -145,8 +145,8 @@ var finddates=(parseInt(selectdate.value))
        
     }
     selectyear.addEventListener("change" ,rese)
-
+    console.log(final1)
 }
 function rese(){
-    final1.innerHTML=''
+    final1.append('')
 }

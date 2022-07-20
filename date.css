@@ -20,3 +20,24 @@
     border-radius: 50%;
     background-color:green;
 }
+#final1{
+    width: 500px;
+    height: 400px;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    border: 2px solid ;
+    width: 500px;
+}
+.heading{
+    border: 2px solid;
+    line-height: 30px;
+}.heading select{
+    padding: 0 9px;
+    margin: 13px 32px;
+    font-size: 20px;
+}
